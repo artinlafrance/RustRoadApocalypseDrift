@@ -30,8 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_emptypowerup",
-    "path": "sprites/spr_emptypowerup/spr_emptypowerup.yy",
+    "name": "spr_revive",
+    "path": "sprites/spr_revive/spr_revive.yy",
   },
   "spriteMaskId": null,
   "visible": true,
