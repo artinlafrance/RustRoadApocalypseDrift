@@ -5,8 +5,17 @@ var _key_left = keyboard_check(ord("A"))
 var _key_lshift = keyboard_check(vk_shift)
 
 
-if _key_up {
+if _key_up && !is_slow_debuffed {
 	current_speed = _acceleration(current_speed)
+}
+
+// This is a timer for the slow debuff when hitting an obstacle
+if is_slow_debuffed == true {
+	slow_elapsed_time += 1
+	if (slow_elapsed_time >= slow_duration * room_speed) {
+		is_slow_debuffed = false
+		slow_elapsed_time = 0
+	}
 }
 
 //W acts as acceleration key, when it's not pressed it decelerates
@@ -51,5 +60,4 @@ if (keyboard_check_released(vk_shift)) {
 	
 move_wrap(true, true, 0)
 y -= current_speed
-
-//show_debug_message("Speed : " + string(current_speed))
+show_debug_message(current_speed)

@@ -34,18 +34,20 @@ drift_speed_coefficient = 2 //When drifting this value is used to slow the car d
 drift_counter = 0 //Checks how many frames the player has been drifting 1 to 100 value
 drift_speed = 0 //This is the speed of the car when drifting
 
+// Modifiers to the speed boost
 speed_boost_coefficient = 1.3
 speed_boost_duration = 4
 speed_boost_timer = 0
 is_speed_boosted = false
 
+// Modifiers to the slow debuff
+is_slow_debuffed = false
+slow_duration = 2
+slow_elapsed_time = 0
+
 initialize_movement(max_speed_no_sb, max_speed_sb, accel, decel, frict, drift_speed_coefficient,
 speed_boost_coefficient, speed_boost_duration)
 
-
-// When horizontal speed increased -> vertical speed decreases
-v_speed_coefficient = 0
-h_speed_coefficient = 0
 
 //default car sprite
 

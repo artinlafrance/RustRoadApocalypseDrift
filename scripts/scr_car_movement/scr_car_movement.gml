@@ -9,6 +9,7 @@ var _max_speed_sb //max speed if speedboosted
 var _accel
 var _decel
 var _frict
+var _original_speed = 0
 
 //Drifting variables
 var _drift_speed
@@ -39,6 +40,9 @@ _speed_boost_coefficient, _speed_boost_duration) {
 	_sb_current_time = 0
 }
 
+function set_speed(_speed) {
+	oCar.current_speed = _speed
+}
 
 function _acceleration(_current_speed) {
 	if (_current_speed == 0) {
@@ -103,5 +107,11 @@ function _speed_boost(_current_speed) {
 	
 	
 	return current_speed
+}
+
+function slow_debuff(_og_speed) {
+		var _slow_speed = _og_speed / 2
+		set_speed(_slow_speed)
+		oCar.is_slow_debuffed = true
 }
 
