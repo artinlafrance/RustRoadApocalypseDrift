@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "car_movement",
+  "name": "scr_powerup",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {

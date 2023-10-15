@@ -52,4 +52,4 @@ if (keyboard_check_released(vk_shift)) {
 move_wrap(true, true, 0)
 y -= current_speed
 
-show_debug_message("Speed : " + string(current_speed))
+//show_debug_message("Speed : " + string(current_speed))

@@ -1,4 +1,27 @@
 /// @description Initialized Properties
+
+//Used for powerup randomization each time game is opened
+randomize()
+
+//For the HP of the car
+hp = 100
+hp_max = hp;
+
+healthbar_width = 289;
+healthbar_height = 36;
+healthbar_x = 20
+healthbar_y = 25
+
+
+//For the powerups
+_has_instakill = false
+_has_demolition = false
+_has_revive = false
+_has_nuke = false
+_num_powerups = -1
+
+
+
 //Once the car reaches top speed the acceleration is put to 0
 accel = 0.15
 max_speed_no_sb = 5;
