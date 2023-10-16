@@ -5,6 +5,12 @@ var _key_left = keyboard_check(ord("A"))
 var _key_lshift = keyboard_check(vk_shift)
 
 
+if oCar.hp <= 0 && oCar._has_revive {
+	revive_perk()
+} else if oCar.hp <= 0 && !oCar._has_revive {
+	game_over()
+}
+
 if _key_up && !is_slow_debuffed {
 	current_speed = _acceleration(current_speed)
 }
@@ -60,4 +66,3 @@ if (keyboard_check_released(vk_shift)) {
 	
 move_wrap(true, true, 0)
 y -= current_speed
-show_debug_message(current_speed)

@@ -64,3 +64,7 @@ function pick_powerup(){
 			break;
 	}
 }
+
+function revive_perk() {
+	oCar.hp = 50
+}
