@@ -30,8 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_emptypowerup",
-    "path": "sprites/spr_emptypowerup/spr_emptypowerup.yy",
+    "name": "spr_demolition",
+    "path": "sprites/spr_demolition/spr_demolition.yy",
   },
   "spriteMaskId": null,
   "visible": true,
