@@ -113,5 +113,6 @@ function slow_debuff(_og_speed) {
 		var _slow_speed = _og_speed / 2
 		set_speed(_slow_speed)
 		oCar.is_slow_debuffed = true
+		oCar.slow_elapsed_time = 0
 }
 
