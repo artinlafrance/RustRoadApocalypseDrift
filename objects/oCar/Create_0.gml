@@ -21,7 +21,6 @@ _has_nuke = false
 _num_powerups = -1
 
 
-
 //Once the car reaches top speed the acceleration is put to 0
 accel = 0.15
 max_speed_no_sb = 5;
@@ -33,6 +32,9 @@ frict = 0.025 //Friction is a percentage value between 0 and 1 Example 0.1 = 10%
 drift_speed_coefficient = 2 //When drifting this value is used to slow the car down. It's set to 2 so it divides the cars speed by 2
 drift_counter = 0 //Checks how many frames the player has been drifting 1 to 100 value
 drift_speed = 0 //This is the speed of the car when drifting
+
+//collision
+is_collide = false
 
 // Modifiers to the speed boost
 speed_boost_coefficient = 1.3

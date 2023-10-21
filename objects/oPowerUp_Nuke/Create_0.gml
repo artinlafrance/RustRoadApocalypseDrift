@@ -1,5 +1,5 @@
 /// @description Insert description here
-mytime = 15;
+mytime = 5;
 showTime=mytime;
 
 

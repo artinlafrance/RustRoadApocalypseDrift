@@ -59,7 +59,7 @@ function pick_powerup(){
 				_selected_powerup = instance_create_layer(manage_instance_powerup(), 0, "Instances", oPowerUp_Nuke)
 				 return _selected_powerup
 			} else {
-				oPowerUp_Nuke.mytime += 10
+				oPowerUp_Nuke.mytime += 5
 			}
 			break;
 	}

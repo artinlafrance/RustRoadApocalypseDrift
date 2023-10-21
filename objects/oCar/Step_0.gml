@@ -4,6 +4,18 @@ var _key_right = keyboard_check(ord("D"))
 var _key_left = keyboard_check(ord("A"))
 var _key_lshift = keyboard_check(vk_shift)
 
+xspd = (_key_right - _key_left) * current_speed;
+yspd = (_key_down - _key_up) * current_speed;
+
+//collisions
+if place_meeting(x + xspd, y, oObst_brokencar) 
+{
+	is_collide = true
+	oObst_brokencar.oCar_originalspeed = current_speed
+	current_speed = 0;	
+} else {
+	is_collide = false	
+}
 
 
 if oCar.hp <= 0 && oCar._has_revive {
@@ -12,7 +24,7 @@ if oCar.hp <= 0 && oCar._has_revive {
 	game_over()
 }
 
-if _key_up && !is_slow_debuffed {
+if _key_up && !is_slow_debuffed && is_collide == false {
 	current_speed = _acceleration(current_speed)
 }
 
@@ -63,7 +75,7 @@ if (_key_up && _key_lshift && !_key_right && !_key_left) {
 if (keyboard_check_released(vk_shift)) {
 		current_speed = _speed_boost(current_speed)
 }
-	
-	
+
+show_debug_message(current_speed)
 move_wrap(true, true, 0)
 y -= current_speed

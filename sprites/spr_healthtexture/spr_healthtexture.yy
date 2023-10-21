@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "GUI",
-    "path": "folders/Sprites/GUI.yy",
+    "name": "Healthbar",
+    "path": "folders/Sprites/GUI/Healthbar.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

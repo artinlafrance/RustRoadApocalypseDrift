@@ -4,6 +4,10 @@
   "name": "oObst_barrier",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"oCar","path":"objects/oCar/oCar.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"oWeapon_Flamethrower_particle","path":"objects/oWeapon_Flamethrower_particle/oWeapon_Flamethrower_particle.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"oWeapon_RPG_particle","path":"objects/oWeapon_RPG_particle/oWeapon_RPG_particle.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -28,8 +32,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Barrier",
-    "path": "sprites/Barrier/Barrier.yy",
+    "name": "spr_obst_barrier",
+    "path": "sprites/spr_obst_barrier/spr_obst_barrier.yy",
   },
   "spriteMaskId": null,
   "visible": true,
