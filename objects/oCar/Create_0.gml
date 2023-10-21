@@ -12,6 +12,9 @@ healthbar_height = 36;
 healthbar_x = 20
 healthbar_y = 25
 
+//People saved
+_people_saved = 0
+
 
 //For the powerups
 _has_instakill = false

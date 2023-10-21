@@ -1,16 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oWeapon_Machinegun_particle",
+  "name": "oPerson",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"oEnemy_zombie","path":"objects/oEnemy_zombie/oEnemy_zombie.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"oCar","path":"objects/oCar/oCar.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "MachineGun",
-    "path": "folders/Objects/Weapons/MachineGun.yy",
+    "name": "People",
+    "path": "folders/Objects/People.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -29,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_machinegun_particle",
-    "path": "sprites/spr_machinegun_particle/spr_machinegun_particle.yy",
+    "name": "spr_person_to_save",
+    "path": "sprites/spr_person_to_save/spr_person_to_save.yy",
   },
   "spriteMaskId": null,
   "visible": true,

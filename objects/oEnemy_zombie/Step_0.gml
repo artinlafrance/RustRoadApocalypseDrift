@@ -1,5 +1,4 @@
 if hp <= 0 {
-	instance_destroy(_nuke_on_zombies)
 	instance_destroy()
 }
 
