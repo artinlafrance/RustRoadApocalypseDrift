@@ -65,6 +65,8 @@ function pick_powerup(){
 	}
 }
 
-function revive_perk() {
+function use_revive_perk() {
 	oCar.hp = 50
+	oCar._has_revive = false
+	
 }

@@ -1,3 +1,7 @@
+if (oCar._has_revive = false) {
+	instance_destroy()	
+}
+
 if (mytime > 0) 
 {
 	mytime = mytime - delta_time/1000000;	

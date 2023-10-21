@@ -5,8 +5,9 @@ var _key_left = keyboard_check(ord("A"))
 var _key_lshift = keyboard_check(vk_shift)
 
 
+
 if oCar.hp <= 0 && oCar._has_revive {
-	revive_perk()
+	use_revive_perk()
 } else if oCar.hp <= 0 && !oCar._has_revive {
 	game_over()
 }
