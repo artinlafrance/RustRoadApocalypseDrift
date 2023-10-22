@@ -4,8 +4,14 @@ This is the script file for the powerups
 
 
 function manage_instance_powerup() {
-	var _x_distance = 150
-	var _x_first_distance = 1184
+	var _x_distance = 75
+	var _x_first_distance = 1275
+	
+	//reset the powerups gui location
+	if (oCar._num_powerups <= 1) {
+		_x_first_distance = 1275
+	}
+	
 	var _x_position = _x_first_distance - (_x_distance * oCar._num_powerups)
 	
 	return _x_position

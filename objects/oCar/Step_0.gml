@@ -18,10 +18,11 @@ if place_meeting(x + xspd, y, oObst_brokencar)
 }
 
 
+
 if oCar.hp <= 0 && oCar._has_revive {
 	use_revive_perk()
 } else if oCar.hp <= 0 && !oCar._has_revive {
-	game_over()
+	room_goto(GameOverRoom)
 }
 
 if _key_up && !is_slow_debuffed && is_collide == false {
@@ -77,5 +78,4 @@ if (keyboard_check_released(vk_shift)) {
 }
 
 show_debug_message(current_speed)
-move_wrap(true, true, 0)
 y -= current_speed

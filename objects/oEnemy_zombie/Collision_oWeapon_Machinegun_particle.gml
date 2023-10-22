@@ -5,5 +5,5 @@
 if (oCar._has_instakill == true) {
 	hp -= 1000	
 } else {
-	hp -= 35
+	hp -= 50
 }
