@@ -93,6 +93,7 @@
     {"id":{"name":"spr_car_drift_left","path":"sprites/spr_car_drift_left/spr_car_drift_left.yy",},},
     {"id":{"name":"spr_instakill2","path":"sprites/spr_instakill2/spr_instakill2.yy",},},
     {"id":{"name":"spr_emptypowerup","path":"sprites/spr_emptypowerup/spr_emptypowerup.yy",},},
+    {"id":{"name":"Object21","path":"objects/Object21/Object21.yy",},},
     {"id":{"name":"spr_machinegun_particle","path":"sprites/spr_machinegun_particle/spr_machinegun_particle.yy",},},
     {"id":{"name":"oWeapon_Flamethrower_gun","path":"objects/oWeapon_Flamethrower_gun/oWeapon_Flamethrower_gun.yy",},},
     {"id":{"name":"Room11","path":"rooms/Room11/Room11.yy",},},
@@ -100,7 +101,11 @@
     {"id":{"name":"RoomBarrier","path":"rooms/RoomBarrier/RoomBarrier.yy",},},
     {"id":{"name":"Room12","path":"rooms/Room12/Room12.yy",},},
     {"id":{"name":"spr_flamethrower_gun","path":"sprites/spr_flamethrower_gun/spr_flamethrower_gun.yy",},},
+<<<<<<< Updated upstream
     {"id":{"name":"RoomRoad1","path":"rooms/RoomRoad1/RoomRoad1.yy",},},
+=======
+    {"id":{"name":"oObst_Spikes","path":"objects/oObst_Spikes/oObst_Spikes.yy",},},
+>>>>>>> Stashed changes
     {"id":{"name":"spr_car_up","path":"sprites/spr_car_up/spr_car_up.yy",},},
     {"id":{"name":"Room8","path":"rooms/Room8/Room8.yy",},},
     {"id":{"name":"spr_GUIpeoplesaved","path":"sprites/spr_GUIpeoplesaved/spr_GUIpeoplesaved.yy",},},
@@ -135,6 +140,7 @@
     {"id":{"name":"Room6Drift","path":"rooms/Room6Drift/Room6Drift.yy",},},
     {"id":{"name":"oObst_brokencar","path":"objects/oObst_brokencar/oObst_brokencar.yy",},},
     {"id":{"name":"scr_car_movement","path":"scripts/scr_car_movement/scr_car_movement.yy",},},
+    {"id":{"name":"Road_spikes","path":"sprites/Road_spikes/Road_spikes.yy",},},
     {"id":{"name":"oPowerUp_Demolition","path":"objects/oPowerUp_Demolition/oPowerUp_Demolition.yy",},},
     {"id":{"name":"spr_instakill","path":"sprites/spr_instakill/spr_instakill.yy",},},
     {"id":{"name":"spr_healing","path":"sprites/spr_healing/spr_healing.yy",},},
