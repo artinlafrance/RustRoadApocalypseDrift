@@ -64,19 +64,14 @@
     {"name":"spr_car_drift_left","order":1,"path":"sprites/spr_car_drift_left/spr_car_drift_left.yy",},
     {"name":"spr_instakill2","order":2,"path":"sprites/spr_instakill2/spr_instakill2.yy",},
     {"name":"spr_emptypowerup","order":3,"path":"sprites/spr_emptypowerup/spr_emptypowerup.yy",},
-    {"name":"Object21","order":2,"path":"objects/Object21/Object21.yy",},
     {"name":"spr_machinegun_particle","order":1,"path":"sprites/spr_machinegun_particle/spr_machinegun_particle.yy",},
     {"name":"oWeapon_Flamethrower_gun","order":1,"path":"objects/oWeapon_Flamethrower_gun/oWeapon_Flamethrower_gun.yy",},
-<<<<<<< Updated upstream
     {"name":"Room11","order":12,"path":"rooms/Room11/Room11.yy",},
     {"name":"RoomBarrier","order":6,"path":"rooms/RoomBarrier/RoomBarrier.yy",},
     {"name":"Room12","order":13,"path":"rooms/Room12/Room12.yy",},
     {"name":"RoomRoad1","order":15,"path":"rooms/RoomRoad1/RoomRoad1.yy",},
     {"name":"Room8","order":9,"path":"rooms/Room8/Room8.yy",},
     {"name":"Room13","order":14,"path":"rooms/Room13/Room13.yy",},
-=======
-    {"name":"oObst_Spikes","order":1,"path":"objects/oObst_Spikes/oObst_Spikes.yy",},
->>>>>>> Stashed changes
     {"name":"spr_flamethrower_particles","order":1,"path":"sprites/spr_flamethrower_particles/spr_flamethrower_particles.yy",},
     {"name":"spr_rpg_particles","order":1,"path":"sprites/spr_rpg_particles/spr_rpg_particles.yy",},
     {"name":"GameOverRoom","order":1,"path":"rooms/GameOverRoom/GameOverRoom.yy",},
@@ -97,11 +92,7 @@
     {"name":"oWeapon_RPG_explosion","order":2,"path":"objects/oWeapon_RPG_explosion/oWeapon_RPG_explosion.yy",},
     {"name":"oWeapon_RPG_particle","order":1,"path":"objects/oWeapon_RPG_particle/oWeapon_RPG_particle.yy",},
     {"name":"oPerson","order":1,"path":"objects/oPerson/oPerson.yy",},
-<<<<<<< Updated upstream
     {"name":"Room6Drift","order":7,"path":"rooms/Room6Drift/Room6Drift.yy",},
-=======
-    {"name":"Road_spikes","order":1,"path":"sprites/Road_spikes/Road_spikes.yy",},
->>>>>>> Stashed changes
     {"name":"oPowerUp_Demolition","order":1,"path":"objects/oPowerUp_Demolition/oPowerUp_Demolition.yy",},
     {"name":"spr_instakill","order":1,"path":"sprites/spr_instakill/spr_instakill.yy",},
     {"name":"spr_healing","order":7,"path":"sprites/spr_healing/spr_healing.yy",},
