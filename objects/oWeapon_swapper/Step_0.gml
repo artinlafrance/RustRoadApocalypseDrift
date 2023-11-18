@@ -1,6 +1,10 @@
 x = oCar.x
 y = oCar.y
 
+//Flamethrower = 0
+//RPG = 1
+//MachineGun = 2
+
 // Check for left arrow key press to cycle left through weapons
 if (keyboard_check_pressed(vk_left)) {
     _current_weapon -= 1;
@@ -29,6 +33,8 @@ switch(_current_weapon) {
 			_flamethrower = instance_create_layer(x,y, "Instances", oWeapon_Flamethrower_gun)
 			_has_flamethrower = true
 		}
+		left_weapon = 2
+		right_weapon = 1
 		
 		break;
 	//RPG
@@ -42,6 +48,8 @@ switch(_current_weapon) {
 			_rpg = instance_create_layer(x,y, "Instances", oWeapon_RPG_gun)
 			_has_rpg = true
 		}
+		left_weapon = 0
+		right_weapon = 2
 		
 		break;
 		
@@ -57,5 +65,11 @@ switch(_current_weapon) {
 			_machinegun = instance_create_layer(x, y, "Instances", oWeapon_Machinegun_gun)
 			_has_machinegun = true
 		}
+		left_weapon = 1
+		right_weapon = 0
+		
 		break;
+		
+		
 }
+show_debug_message("Current Weapon: " + string(_current_weapon))

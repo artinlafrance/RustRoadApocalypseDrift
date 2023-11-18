@@ -67,6 +67,7 @@ function _deceleration(_current_speed) {
 
 
 function _turning(_current_speed) {
+	_current_speed = _acceleration(_current_speed)
 		if (_current_speed > 1) {
 			_current_speed -= _current_speed * _frict
 		}

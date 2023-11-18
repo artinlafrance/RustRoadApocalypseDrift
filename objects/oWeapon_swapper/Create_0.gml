@@ -12,8 +12,20 @@ _has_rpg = false
 _has_machinegun = false
 
 
-//GUI selector
-_selectorgui_x = 50
-_selectorgui_y = 40
-_selectorgui_width = 100
-_selectorgui_height = 100
+//GUI coordinates and Sprites
+
+left_weapon = noone
+right_weapon = noone
+
+current_selected_weapon_spr = noone
+right_weapon_spr = noone
+left_weapon_spr = noone
+
+_current_selected_gun_x = 1200
+_current_selected_gun_y = 575
+
+_right_weapon_x = 1250
+_right_weapon_y = 650
+
+_left_weapon_x = 1150
+_left_weapon_y = 650

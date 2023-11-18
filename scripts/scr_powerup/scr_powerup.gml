@@ -20,7 +20,7 @@ function manage_instance_powerup() {
 }
 
 function pick_powerup(){
-	var _random_powerup = irandom(3)
+	var _random_powerup = irandom(2)
 	var _selected_powerup;
 	
 	switch (_random_powerup)

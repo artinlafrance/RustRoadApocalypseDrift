@@ -76,6 +76,4 @@ if (_key_up && _key_lshift && !_key_right && !_key_left) {
 if (keyboard_check_released(vk_shift)) {
 		current_speed = _speed_boost(current_speed)
 }
-
-show_debug_message(current_speed)
 y -= current_speed

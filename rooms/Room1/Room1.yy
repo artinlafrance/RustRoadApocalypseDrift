@@ -9,8 +9,8 @@
   "instanceCreationOrder": [
     {"name":"inst_4B0F5F77","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_4872BB4B","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_6F94187E","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_75958AB8","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_1ACC21B8","path":"rooms/Room1/Room1.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -19,8 +19,8 @@
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4B0F5F77","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oCar","path":"objects/oCar/oCar.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":704.0,"y":608.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6F94187E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oPerson","path":"objects/oPerson/oPerson.yy",},"properties":[],"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":672.0,"y":320.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_75958AB8","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objWarp","path":"objects/objWarp/objWarp.yy",},"properties":[],"rotation":0.0,"scaleX":11.0,"scaleY":1.0,"x":384.0,"y":0.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1ACC21B8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oPerson","path":"objects/oPerson/oPerson.yy",},"properties":[],"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":672.0,"y":352.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_2","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":8,"SerialiseWidth":15,"TileCompressedData":[
 -30,-2147483648,1,4,-30,-2147483648,1,11,-58,-2147483648,],"TileDataFormat":1,},"tilesetId":{"name":"ts_desert","path":"tilesets/ts_desert/ts_desert.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
