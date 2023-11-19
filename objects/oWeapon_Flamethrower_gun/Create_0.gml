@@ -5,3 +5,4 @@ x = oCar.x + 30;
 y = oCar.y;
 
 _flamethrower_on = false
+flamethrower_sfx = noone

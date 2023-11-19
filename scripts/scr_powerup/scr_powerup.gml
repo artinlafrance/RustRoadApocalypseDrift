@@ -72,7 +72,8 @@ function pick_powerup(){
 }
 
 function use_revive_perk() {
+	audio_play_sound(powerup_revive_sfx, 1, false)
+	revive_anim = instance_create_layer(x, y, "Instances", oPowerUp_Revive_Anim)
 	oCar.hp = 50
 	oCar._has_revive = false
-	
 }

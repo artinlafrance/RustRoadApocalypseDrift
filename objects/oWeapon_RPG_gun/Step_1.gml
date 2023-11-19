@@ -9,6 +9,7 @@ if (_shoot_timer > 0) {
 if (keyboard_check_pressed(vk_space) && _shoot_timer == 0) {
     // Fire bullet
     bullet = instance_create_layer(x, y, "Bullets", oWeapon_RPG_particle);
+	audio_play_sound(rpg_fired_sfx, 1, false)
     if (bullet != noone) {
         bullet.speed = 10;
         bullet.direction = 90; // Set the initial direction to 90 degrees (upwards)
