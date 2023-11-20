@@ -3,5 +3,4 @@
 
 hp = 100
 spd = 1
-
-_nuke_on_zombies = noone
+flash = 0;
