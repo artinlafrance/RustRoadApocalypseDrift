@@ -47,6 +47,7 @@
     {"name":"Zombies","order":6,"path":"folders/Sprites/Zombies.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"PowerUp SFX","order":4,"path":"folders/Sounds/PowerUp SFX.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"oPowerUp_Instakill","order":5,"path":"objects/oPowerUp_Instakill/oPowerUp_Instakill.yy",},
@@ -62,6 +63,7 @@
     {"name":"oHealing","order":7,"path":"objects/oHealing/oHealing.yy",},
     {"name":"oWeapon_Machinegun_particle","order":1,"path":"objects/oWeapon_Machinegun_particle/oWeapon_Machinegun_particle.yy",},
     {"name":"spr_desertaccessories","order":2,"path":"sprites/spr_desertaccessories/spr_desertaccessories.yy",},
+    {"name":"powerup_pickup_sfx","order":1,"path":"sounds/powerup_pickup_sfx/powerup_pickup_sfx.yy",},
     {"name":"ts_road","order":1,"path":"tilesets/ts_road/ts_road.yy",},
     {"name":"Room10","order":11,"path":"rooms/Room10/Room10.yy",},
     {"name":"flamethrower_collision_sfx","order":1,"path":"sounds/flamethrower_collision_sfx/flamethrower_collision_sfx.yy",},

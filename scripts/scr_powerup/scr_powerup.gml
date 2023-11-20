@@ -22,6 +22,7 @@ function manage_instance_powerup() {
 function pick_powerup(){
 	var _random_powerup = irandom(2)
 	var _selected_powerup;
+	audio_play_sound(powerup_pickup_sfx, 1, false)
 	
 	switch (_random_powerup)
 	{
