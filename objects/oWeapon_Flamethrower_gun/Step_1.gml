@@ -16,8 +16,14 @@ if (keyboard_check_pressed(vk_space) && !_flamethrower_on) {
 
 
 if (keyboard_check_released(vk_space) && _flamethrower_on && instance_exists(bullet)) {
-    _flamethrower_on = false;
+    
     // Delete the bullet (destroy the bullet instance)
     instance_destroy(bullet);
+	audio_stop_sound(flamethrower_sfx)
+	_flamethrower_on = false;
+}
+
+//If the player changes weapons stop the audio
+if (keyboard_check_pressed(vk_left) | keyboard_check_pressed(vk_right)) {
 	audio_stop_sound(flamethrower_sfx)
 }
