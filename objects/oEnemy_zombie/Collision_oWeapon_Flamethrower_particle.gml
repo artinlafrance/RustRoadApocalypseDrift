@@ -6,5 +6,6 @@ if (oCar._has_instakill == true) {
 	hp -= 1
 }
 
+
 //For the red flash
 flash = 10

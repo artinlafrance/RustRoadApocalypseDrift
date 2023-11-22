@@ -1,17 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oWeapon_Flamethrower_particle",
+  "name": "objGameEnd",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"oObst_barrier","path":"objects/oObst_barrier/oObst_barrier.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Flamethrower",
-    "path": "folders/Objects/Weapons/Flamethrower.yy",
+    "name": "Levels",
+    "path": "folders/Objects/Levels.yy",
   },
   "parentObjectId": null,
   "persistent": true,
@@ -29,10 +27,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_flamethrower_particles",
-    "path": "sprites/spr_flamethrower_particles/spr_flamethrower_particles.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

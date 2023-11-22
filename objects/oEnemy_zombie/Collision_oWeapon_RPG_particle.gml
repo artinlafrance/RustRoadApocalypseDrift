@@ -6,7 +6,11 @@ if (oCar._has_instakill == true) {
 	hp -= 50
 }
 
+
+instance_create_layer(x,y,"Bullets", oWeapon_RPG_explosion)
 //For the red flash
 flash = 10
 audio_play_sound(rpg_collision_sfx, 1, false)
-instance_create_layer(x,y,"Bullets", oWeapon_RPG_explosion)
+
+got_hit = true
+

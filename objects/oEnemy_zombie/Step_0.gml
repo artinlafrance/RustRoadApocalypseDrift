@@ -8,9 +8,11 @@ move_towards_point(oCar.x, oCar.y, spd)
 if flash
 	flash--;
 
-/**
-if (oCar._has_nuke) {
-	_nuke_on_zombies = instance_create_layer(x,y, "Bullets", oPowerUp_Nuke_explosion)
-	
+if got_hit == true{
+	if knockback_time <= max_knockback_rpg {
+		y = y - knockback_coefficient
+		knockback_time += knockback_coefficient
+	}
+	knockback_time = 0
+	got_hit = false
 }
-**/
