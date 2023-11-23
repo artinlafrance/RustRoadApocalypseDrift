@@ -29,9 +29,9 @@
     {"name":"inst_2EC034F6","path":"rooms/Room7Heal/Room7Heal.yy",},
     {"name":"inst_662EAF19","path":"rooms/Room7Heal/Room7Heal.yy",},
     {"name":"inst_72BD3516","path":"rooms/Room7Heal/Room7Heal.yy",},
-    {"name":"inst_584E9B7D","path":"rooms/Room7Heal/Room7Heal.yy",},
     {"name":"inst_3978980E","path":"rooms/Room7Heal/Room7Heal.yy",},
     {"name":"inst_60FA3F78","path":"rooms/Room7Heal/Room7Heal.yy",},
+    {"name":"inst_6FE94D85","path":"rooms/Room7Heal/Room7Heal.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -59,9 +59,9 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2EC034F6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oObst_barrier","path":"objects/oObst_barrier/oObst_barrier.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":672.0,"y":192.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_662EAF19","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oObst_barrier","path":"objects/oObst_barrier/oObst_barrier.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":736.0,"y":160.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_72BD3516","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oObst_barrier","path":"objects/oObst_barrier/oObst_barrier.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":928.0,"y":192.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_584E9B7D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oObst_brokencar","path":"objects/oObst_brokencar/oObst_brokencar.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":800.0,"y":64.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3978980E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oHealing","path":"objects/oHealing/oHealing.yy",},"properties":[],"rotation":0.0,"scaleX":3.0,"scaleY":3.0,"x":608.0,"y":352.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_60FA3F78","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oPerson","path":"objects/oPerson/oPerson.yy",},"properties":[],"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":800.0,"y":128.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6FE94D85","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oObst_brokencar_orange","path":"objects/oObst_brokencar_orange/oObst_brokencar_orange.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":800.0,"y":64.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_2","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":23,"SerialiseWidth":43,"TileCompressedData":[
 -86,-2147483648,1,2,-38,-2147483648,2,1,2,-41,-2147483648,2,11,12,-3,-2147483648,2,0,20,-38,-2147483648,1,30,-8,-2147483648,2,37,38,-41,-2147483648,2,47,48,-28,-2147483648,1,20,-8,-2147483648,1,19,-42,-2147483648,

@@ -13,11 +13,30 @@ if place_meeting(x + xspd, y, oObst_brokencar)
 	is_collide = true
 	oObst_brokencar.oCar_originalspeed = current_speed
 	current_speed = 0;	
-} else {
+}
+else if place_meeting(x + xspd, y, oObst_brokencar_blue) {
+	is_collide = true
+	oObst_brokencar_blue.oCar_originalspeed = current_speed
+	current_speed = 0;
+}
+else if place_meeting(x + xspd, y, oObst_brokencar_orange) {
+	is_collide = true
+	oObst_brokencar_orange.oCar_originalspeed = current_speed
+	current_speed = 0;
+}
+else if place_meeting(x + xspd, y, oObst_brokencar_purple) {
+	is_collide = true
+	oObst_brokencar_purple.oCar_originalspeed = current_speed
+	current_speed = 0;
+}
+else if place_meeting(x + xspd, y, oObst_brokencar_red) {
+	is_collide = true
+	oObst_brokencar_red.oCar_originalspeed = current_speed
+	current_speed = 0;
+}
+else {
 	is_collide = false	
 }
-
-
 
 if oCar.hp <= 0 && oCar._has_revive {
 	use_revive_perk()
