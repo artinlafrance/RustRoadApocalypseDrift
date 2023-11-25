@@ -24,6 +24,7 @@
     {"name":"Sequences","order":11,"path":"folders/Sequences.yy",},
     {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
     {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
+    {"name":"Levels","order":7,"path":"folders/Sounds/Levels.yy",},
     {"name":"Obstacles","order":5,"path":"folders/Sounds/Obstacles.yy",},
     {"name":"PowerUp SFX","order":4,"path":"folders/Sounds/PowerUp SFX.yy",},
     {"name":"Weapon SFX","order":3,"path":"folders/Sounds/Weapon SFX.yy",},
@@ -51,7 +52,6 @@
     {"name":"Zombies","order":6,"path":"folders/Sprites/Zombies.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"Levels","order":7,"path":"folders/Sounds/Levels.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"oPowerUp_Instakill","order":5,"path":"objects/oPowerUp_Instakill/oPowerUp_Instakill.yy",},

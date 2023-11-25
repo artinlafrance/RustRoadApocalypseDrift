@@ -2,6 +2,14 @@ if hp <= 0 {
 	instance_destroy()
 }
 
+// Used to highlight the props that is most effective
+if oWeapon_swapper._has_machinegun {
+	image_index = 1	
+} else {
+	image_index = 0	
+}
+
+
 move_towards_point(oCar.x, oCar.y, spd)
 
 // For the red flash shader
