@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "objPlayButton",
+  "name": "objQuitButton",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":false,},
   ],
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_playbutton",
-    "path": "sprites/spr_playbutton/spr_playbutton.yy",
+    "name": "spr_quitbutton",
+    "path": "sprites/spr_quitbutton/spr_quitbutton.yy",
   },
   "spriteMaskId": null,
   "visible": true,
