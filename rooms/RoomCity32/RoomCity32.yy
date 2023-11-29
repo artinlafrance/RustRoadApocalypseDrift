@@ -11,11 +11,13 @@
     {"name":"inst_75958AB8_1_1_1_1_1_1_1_1_1_1_1_1_1","path":"rooms/RoomCity32/RoomCity32.yy",},
     {"name":"inst_1AD18275_1_1_1_1_1_1_1_1_1_1_1_1_1","path":"rooms/RoomCity32/RoomCity32.yy",},
     {"name":"inst_4367DD09_1_1_1_1_1_1_1_1_1_1_1_1_1","path":"rooms/RoomCity32/RoomCity32.yy",},
+    {"name":"inst_14C11367","path":"rooms/RoomCity32/RoomCity32.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Bullets","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4872BB4B_1_1_1_1_1_1_1_1_1_1_1_1_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oWeapon_swapper","path":"objects/oWeapon_swapper/oWeapon_swapper.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":736.0,"y":640.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_14C11367","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oObst_barrier","path":"objects/oObst_barrier/oObst_barrier.yy",},"properties":[],"rotation":0.0,"scaleX":0.8,"scaleY":0.8,"x":704.0,"y":416.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_75958AB8_1_1_1_1_1_1_1_1_1_1_1_1_1","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objWarp","path":"objects/objWarp/objWarp.yy",},"properties":[],"rotation":0.0,"scaleX":11.0,"scaleY":1.0,"x":384.0,"y":0.0,},
