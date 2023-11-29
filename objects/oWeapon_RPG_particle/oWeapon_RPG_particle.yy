@@ -11,8 +11,6 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"oObst_brokencar_orange","path":"objects/oObst_brokencar_orange/oObst_brokencar_orange.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"oObst_brokencar_purple","path":"objects/oObst_brokencar_purple/oObst_brokencar_purple.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"oObst_brokencar_red","path":"objects/oObst_brokencar_red/oObst_brokencar_red.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"oObst_stone5","path":"objects/oObst_stone5/oObst_stone5.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"oObst_stone4","path":"objects/oObst_stone4/oObst_stone4.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],

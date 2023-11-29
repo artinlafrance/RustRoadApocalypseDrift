@@ -34,26 +34,8 @@ else if place_meeting(x + xspd, y, oObst_brokencar_red) {
 	oObst_brokencar_red.oCar_originalspeed = current_speed
 	current_speed = 0;
 }
-else if place_meeting(x + xspd, y, oObst_stone5) {
-	is_collide = true
-	oObst_stone5.oCar_originalspeed = current_speed
-	current_speed = 0;
-}
-else if place_meeting(x + xspd, y, oObst_stone4) {
-	is_collide = true
-	oObst_stone4.oCar_originalspeed = current_speed
-	current_speed = 0;
-}
-else if place_meeting(x, y+yspd, objCollisionBorderLeft) {
-	is_collide_left = true
-}
-else if place_meeting(x, y+yspd, objCollisionBorderRight) {
-	is_collide_right = true	
-}
 else {
 	is_collide = false	
-	is_collide_left = false
-	is_collide_right = false
 }
 
 if oCar.hp <= 0 && oCar._has_revive {
@@ -79,25 +61,25 @@ if (!_key_up) {
 }
 
 
-if (_key_right && !_key_lshift && is_collide_right == false) {
+if (_key_right && !_key_lshift) {
 	current_speed = _turning(current_speed)
 	x += current_speed	
 }
 
 
-if (_key_left && !_key_lshift && is_collide_left == false) {
+if (_key_left && !_key_lshift) {
 		current_speed = _turning(current_speed)
 		x -= current_speed
 }
 
 //Handles the drifting mechanic
 
-if (_key_left && _key_lshift && _key_up && is_collide_left == false) {
+if (_key_left && _key_lshift && _key_up) {
 	current_speed =_drifting(current_speed, spr_car_drift_left)
 	x -= current_speed	
 }
 
-if (_key_right && _key_lshift && _key_up && is_collide_right == false) {
+if (_key_right && _key_lshift && _key_up) {
 	
 	current_speed = _drifting(current_speed, spr_car_drift_right)
 	x += current_speed
