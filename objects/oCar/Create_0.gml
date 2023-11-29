@@ -40,6 +40,8 @@ drift_speed = 0 //This is the speed of the car when drifting
 
 //collision
 is_collide = false
+is_collide_left = false
+is_collide_right = false
 
 // Modifiers to the speed boost
 speed_boost_coefficient = 1.3
