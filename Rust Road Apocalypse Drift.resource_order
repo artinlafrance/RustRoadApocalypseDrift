@@ -43,7 +43,9 @@
     {"name":"Person","order":10,"path":"folders/Sprites/Person.yy",},
     {"name":"Powerup","order":2,"path":"folders/Sprites/Powerup.yy",},
     {"name":"Tilesets","order":8,"path":"folders/Sprites/Tilesets.yy",},
+    {"name":"city","order":3,"path":"folders/Sprites/Tilesets/city.yy",},
     {"name":"Desert","order":1,"path":"folders/Sprites/Tilesets/Desert.yy",},
+    {"name":"Forest","order":2,"path":"folders/Sprites/Tilesets/Forest.yy",},
     {"name":"Vehicle","order":1,"path":"folders/Sprites/Vehicle.yy",},
     {"name":"Weapons","order":5,"path":"folders/Sprites/Weapons.yy",},
     {"name":"Flamethrower","order":1,"path":"folders/Sprites/Weapons/Flamethrower.yy",},
@@ -52,8 +54,6 @@
     {"name":"Zombies","order":6,"path":"folders/Sprites/Zombies.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"Forest","order":2,"path":"folders/Sprites/Tilesets/Forest.yy",},
-    {"name":"city","order":3,"path":"folders/Sprites/Tilesets/city.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"oPowerUp_Instakill","order":5,"path":"objects/oPowerUp_Instakill/oPowerUp_Instakill.yy",},
