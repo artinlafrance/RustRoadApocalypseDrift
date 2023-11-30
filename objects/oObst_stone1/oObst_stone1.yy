@@ -3,13 +3,8 @@
   "resourceVersion": "1.0",
   "name": "oObst_stone1",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"oCar_1","path":"objects/oCar_1/oCar_1.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"oWeapon_RPG_particle_1","path":"objects/oWeapon_RPG_particle_1/oWeapon_RPG_particle_1.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"oWeapon_Flamethrower_particle_1","path":"objects/oWeapon_Flamethrower_particle_1/oWeapon_Flamethrower_particle_1.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"oWeapon_RPG_explosion_1","path":"objects/oWeapon_RPG_explosion_1/oWeapon_RPG_explosion_1.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"oWeapon_Machinegun_particle_1","path":"objects/oWeapon_Machinegun_particle_1/oWeapon_Machinegun_particle_1.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
