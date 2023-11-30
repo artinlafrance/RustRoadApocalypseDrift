@@ -8,7 +8,6 @@
   "inheritLayers": false,
   "instanceCreationOrder": [
     {"name":"inst_75958AB8_1_1_1","path":"rooms/Room22/Room22.yy",},
-    {"name":"inst_1AD18275_1_1_1","path":"rooms/Room22/Room22.yy",},
     {"name":"inst_4367DD09_1_1_1","path":"rooms/Room22/Room22.yy",},
     {"name":"inst_357BC089","path":"rooms/Room22/Room22.yy",},
   ],
@@ -19,8 +18,7 @@
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_75958AB8_1_1_1","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objWarp","path":"objects/objWarp/objWarp.yy",},"properties":[],"rotation":0.0,"scaleX":11.0,"scaleY":1.0,"x":384.0,"y":0.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1AD18275_1_1_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objGameEnd","path":"objects/objGameEnd/objGameEnd.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":32.0,"y":64.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4367DD09_1_1_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objGameWindow","path":"objects/objGameWindow/objGameWindow.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":736.0,"y":480.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4367DD09_1_1_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objGameController","path":"objects/objGameController/objGameController.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":736.0,"y":480.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_5","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":45,"SerialiseWidth":86,"TileCompressedData":[
 -7,-2147483648,4,786,787,788,789,-67,-2147483648,4,786,787,788,789,-11,-2147483648,4,818,819,820,821,-67,-2147483648,4,818,819,820,821,-11,-2147483648,4,850,851,852,853,-5,-2147483648,4,786,787,788,789,-58,-2147483648,4,850,851,852,853,-11,-2147483648,4,882,883,884,885,-5,-2147483648,4,818,819,820,821,-58,-2147483648,4,882,883,884,885,-11,-2147483648,4,914,915,916,917,-5,-2147483648,4,850,851,852,853,-58,-2147483648,

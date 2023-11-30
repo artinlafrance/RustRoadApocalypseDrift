@@ -2,8 +2,8 @@
 
 //Used for powerup randomization each time game is opened
 randomize()
-
 enteredRoom = false;
+
 
 //For the HP of the car
 hp = 100
@@ -66,5 +66,3 @@ default_sprite = spr_car_up
 previous_x = x;
 previous_y = y;
 car_facing_direction = image_angle
-
-road = layer_tilemap_get_id("Tileset_barrier")

@@ -9,7 +9,6 @@
   "instanceCreationOrder": [
     {"name":"inst_75958AB8_1","path":"rooms/Room19/Room19.yy",},
     {"name":"inst_1ACC21B8_1","path":"rooms/Room19/Room19.yy",},
-    {"name":"inst_1AD18275_1","path":"rooms/Room19/Room19.yy",},
     {"name":"inst_4367DD09_1","path":"rooms/Room19/Room19.yy",},
   ],
   "isDnd": false,
@@ -18,8 +17,7 @@
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_75958AB8_1","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objWarp","path":"objects/objWarp/objWarp.yy",},"properties":[],"rotation":0.0,"scaleX":12.0,"scaleY":1.0,"x":352.0,"y":0.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1ACC21B8_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oPerson","path":"objects/oPerson/oPerson.yy",},"properties":[],"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":672.0,"y":352.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1AD18275_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objGameEnd","path":"objects/objGameEnd/objGameEnd.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":32.0,"y":64.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4367DD09_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objGameWindow","path":"objects/objGameWindow/objGameWindow.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":736.0,"y":480.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4367DD09_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objGameController","path":"objects/objGameController/objGameController.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":736.0,"y":480.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_5","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":45,"SerialiseWidth":86,"TileCompressedData":[
 -5,-2147483648,2,656,657,-15,-2147483648,48,662,663,691,692,691,692,691,692,691,692,691,692,691,692,691,692,691,692,691,692,691,692,691,692,691,692,691,692,691,692,691,692,691,692,691,692,691,692,691,692,691,692,691,692,691,692,666,667,-21,-2147483648,2,688,689,-15,-2147483648,48,662,663,723,724,723,724,723,724,723,724,723,724,723,724,723,724,723,724,723,724,723,724,
@@ -59,8 +57,8 @@
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":500,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "Level2Forest",
+    "path": "folders/Rooms/Level2Forest.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

@@ -49,6 +49,7 @@ else if current_room == 7 {
 	else if(!instance_exists(inst_3126A5BA)) {
 		player_got_it = true
 		target_room = desert_rm_intro
+		objGameController.tutorial_completed = true
 	}
 	
 }

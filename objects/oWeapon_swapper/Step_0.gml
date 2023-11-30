@@ -30,7 +30,7 @@ switch(_current_weapon) {
 		instance_destroy(_rpg)
 		
 		if _has_flamethrower == false {
-			_flamethrower = instance_create_layer(x,y, "Instances", oWeapon_Flamethrower_gun)
+			_flamethrower = instance_create_layer(x,y, "Bullets", oWeapon_Flamethrower_gun)
 			_has_flamethrower = true
 		}
 		left_weapon = 2
@@ -40,12 +40,12 @@ switch(_current_weapon) {
 	//RPG
 	case 1:
 		_has_flamethrower = false
-		instance_destroy(_flamethrower)
 		_has_machinegun = false
+		instance_destroy(_flamethrower)
 		instance_destroy(_machinegun)
 		
 		if _has_rpg == false {
-			_rpg = instance_create_layer(x,y, "Instances", oWeapon_RPG_gun)
+			_rpg = instance_create_layer(x,y, "Bullets", oWeapon_RPG_gun)
 			_has_rpg = true
 		}
 		left_weapon = 0
@@ -56,13 +56,12 @@ switch(_current_weapon) {
 	//MachineGun
 	case 2:
 		_has_rpg = false
-		instance_destroy(_rpg)
-		
 		_has_flamethrower = false
+		instance_destroy(_rpg)
 		instance_destroy(_flamethrower)
 		
 		if _has_machinegun == false {
-			_machinegun = instance_create_layer(x, y, "Instances", oWeapon_Machinegun_gun)
+			_machinegun = instance_create_layer(x, y, "Bullets", oWeapon_Machinegun_gun)
 			_has_machinegun = true
 		}
 		left_weapon = 1
@@ -72,4 +71,3 @@ switch(_current_weapon) {
 		
 		
 }
-show_debug_message("Current Weapon: " + string(_current_weapon))

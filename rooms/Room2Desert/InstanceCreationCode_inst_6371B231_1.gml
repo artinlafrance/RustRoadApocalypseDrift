@@ -1,0 +1,1 @@
+targetRoom = Room3Desert

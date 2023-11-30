@@ -7,6 +7,13 @@ var _key_lshift = keyboard_check(vk_shift)
 xspd = (_key_right - _key_left) * current_speed;
 yspd = (_key_down - _key_up) * current_speed;
 
+
+if oCar.hp <= 0 && oCar._has_revive == true{
+	show_debug_message(string(oCar.hp))
+	use_revive_perk()
+	
+}
+
 //collisions
 if place_meeting(x + xspd, y, oObst_brokencar) 
 {
@@ -56,9 +63,6 @@ else {
 	is_collide_right = false
 }
 
-if oCar.hp <= 0 && oCar._has_revive {
-	use_revive_perk()
-} 
 
 if _key_up && !is_slow_debuffed && is_collide == false {
 	current_speed = _acceleration(current_speed)

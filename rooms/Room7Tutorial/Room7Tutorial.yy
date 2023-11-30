@@ -7,8 +7,6 @@
   "inheritCreationOrder": false,
   "inheritLayers": false,
   "instanceCreationOrder": [
-    {"name":"inst_1AD18275_2_2_1_1_3","path":"rooms/Room7Tutorial/Room7Tutorial.yy",},
-    {"name":"inst_4367DD09_2_2_1_1_3","path":"rooms/Room7Tutorial/Room7Tutorial.yy",},
     {"name":"inst_6365998E_3","path":"rooms/Room7Tutorial/Room7Tutorial.yy",},
     {"name":"inst_212C95AF_2","path":"rooms/Room7Tutorial/Room7Tutorial.yy",},
     {"name":"inst_55295FBC_2","path":"rooms/Room7Tutorial/Room7Tutorial.yy",},
@@ -18,8 +16,6 @@
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Bullets","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1AD18275_2_2_1_1_3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objGameEnd","path":"objects/objGameEnd/objGameEnd.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":32.0,"y":64.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4367DD09_2_2_1_1_3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objGameWindow","path":"objects/objGameWindow/objGameWindow.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":736.0,"y":480.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6365998E_3","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objTutorial","path":"objects/objTutorial/objTutorial.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":224.0,"y":128.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_212C95AF_2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objCollisionBorderRight","path":"objects/objCollisionBorderRight/objCollisionBorderRight.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":11.5,"x":768.0,"y":0.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_55295FBC_2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objCollisionBorderLeft","path":"objects/objCollisionBorderLeft/objCollisionBorderLeft.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":11.5,"x":576.0,"y":0.0,},
@@ -52,7 +48,7 @@
   "roomSettings": {
     "Height": 720,
     "inheritRoomSettings": false,
-    "persistent": true,
+    "persistent": false,
     "Width": 1368,
   },
   "sequenceId": null,

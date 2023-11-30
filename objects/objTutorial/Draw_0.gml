@@ -9,7 +9,6 @@ draw_text(text_x, text_y, string_instructions)
 
 
 if player_got_it == true && next_room == false {
-	show_debug_message("Here")
 	instance_create_layer(700, 300, "Instances", objCorrect)
 	objCorrect.target_room = target_room
 	next_room = true
