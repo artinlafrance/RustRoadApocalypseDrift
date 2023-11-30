@@ -1,0 +1,8 @@
+if hp <= 0 {
+	instance_destroy()
+}
+if oWeapon_swapper._has_rpg {
+	image_index = 1	
+} else {
+	image_index = 0
+}
