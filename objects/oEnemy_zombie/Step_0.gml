@@ -10,7 +10,12 @@ if oWeapon_swapper._has_machinegun {
 }
 
 
+
 move_towards_point(oCar.x, oCar.y, spd)
+
+if place_meeting(x,y, oObst_barrier) {
+	spd = 0
+}
 
 // For the red flash shader
 if flash

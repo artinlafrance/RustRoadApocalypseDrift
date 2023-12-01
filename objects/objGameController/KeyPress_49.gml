@@ -2,7 +2,6 @@
 // You can write your code in this editor
 
 
-if (oCar._has_demolition == true) {
-	hp -= 1000	
-}
 
+
+room_goto(desert_rm_intro)

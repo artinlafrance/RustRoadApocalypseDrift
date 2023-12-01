@@ -4,3 +4,4 @@
 
 
 
+instance_destroy()
