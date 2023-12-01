@@ -1,4 +1,4 @@
-x = oCar.x
+x = oCar.x + 20
 y = oCar.y
 image_index = 0;
 

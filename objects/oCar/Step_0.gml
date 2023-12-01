@@ -57,6 +57,16 @@ else if place_meeting(x, y+yspd, objCollisionBorderLeft) {
 else if place_meeting(x, y+yspd, objCollisionBorderRight) {
 	is_collide_right = true	
 }
+else if place_meeting(x + xspd, y, oObst_stone1) {
+	is_collide = true
+	oObst_stone1.oCar_originalspeed = current_speed
+	current_speed = 0
+}
+else if place_meeting(x + xspd, y, oObst_stone133) {
+	is_collide = true
+	oObst_stone133.oCar_originalspeed = current_speed
+	current_speed = 0
+}
 else {
 	is_collide = false	
 	is_collide_left = false
