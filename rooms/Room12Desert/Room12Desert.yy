@@ -25,6 +25,8 @@
     {"name":"inst_2DCD391E","path":"rooms/Room12Desert/Room12Desert.yy",},
     {"name":"inst_41A86ED6","path":"rooms/Room12Desert/Room12Desert.yy",},
     {"name":"inst_38B46307","path":"rooms/Room12Desert/Room12Desert.yy",},
+    {"name":"inst_10D302C5","path":"rooms/Room12Desert/Room12Desert.yy",},
+    {"name":"inst_17E98E87","path":"rooms/Room12Desert/Room12Desert.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -48,6 +50,8 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2DCD391E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oObst_brokencar_orange","path":"objects/oObst_brokencar_orange/oObst_brokencar_orange.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":704.0,"y":416.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_41A86ED6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oObst_brokencar_blue","path":"objects/oObst_brokencar_blue/oObst_brokencar_blue.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":384.0,"y":320.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_38B46307","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oObst_brokencar_purple","path":"objects/oObst_brokencar_purple/oObst_brokencar_purple.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":608.0,"y":256.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_10D302C5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objCollisionBorderRight","path":"objects/objCollisionBorderRight/objCollisionBorderRight.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":11.5,"x":1088.0,"y":0.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_17E98E87","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objCollisionBorderLeft","path":"objects/objCollisionBorderLeft/objCollisionBorderLeft.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":12.5,"x":320.0,"y":0.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_2","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":23,"SerialiseWidth":43,"TileCompressedData":[
 2,-2147483648,0,-42,-2147483648,-5,0,-34,-2147483648,5,0,19,0,0,19,-4,0,3,-2147483648,0,0,-27,-2147483648,13,40,-2147483648,-2147483648,0,0,29,0,-2147483648,29,0,0,-2147483648,-2147483648,-3,0,-26,-2147483648,-2,0,

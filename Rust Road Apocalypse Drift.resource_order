@@ -153,7 +153,7 @@
     {"name":"spr_obst_stone148_6","order":51,"path":"sprites/spr_obst_stone148_6/spr_obst_stone148_6.yy",},
     {"name":"RoomCity34","order":12,"path":"rooms/RoomCity34/RoomCity34.yy",},
     {"name":"ts_forest_6","order":12,"path":"tilesets/ts_forest_6/ts_forest_6.yy",},
-    {"name":"Room14Desert","order":11,"path":"rooms/Room14Desert/Room14Desert.yy",},
+    {"name":"Room14Desert","order":14,"path":"rooms/Room14Desert/Room14Desert.yy",},
     {"name":"tutorialfont","order":1,"path":"fonts/tutorialfont/tutorialfont.yy",},
     {"name":"spr_obst_brokencar_purple_8","order":49,"path":"sprites/spr_obst_brokencar_purple_8/spr_obst_brokencar_purple_8.yy",},
     {"name":"spr_machinegun_particle_1","order":1,"path":"sprites/spr_machinegun_particle_1/spr_machinegun_particle_1.yy",},
