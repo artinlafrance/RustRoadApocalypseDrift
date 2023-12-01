@@ -127,6 +127,7 @@
     {"name":"Room1Forest","order":1,"path":"rooms/Room1Forest/Room1Forest.yy",},
     {"name":"ts_forestaccesories_1","order":1,"path":"tilesets/ts_forestaccesories_1/ts_forestaccesories_1.yy",},
     {"name":"Room11","order":18,"path":"rooms/Room11/Room11.yy",},
+    {"name":"city_rm_intro","order":12,"path":"rooms/city_rm_intro/city_rm_intro.yy",},
     {"name":"spr_obst_barrierf_1","order":2,"path":"sprites/spr_obst_barrierf_1/spr_obst_barrierf_1.yy",},
     {"name":"spr_person_to_save_3","order":3,"path":"sprites/spr_person_to_save_3/spr_person_to_save_3.yy",},
     {"name":"Room6Tutorial","order":4,"path":"rooms/Room6Tutorial/Room6Tutorial.yy",},

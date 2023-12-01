@@ -76,7 +76,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.1.102",
+    "IDEVersion": "2023.8.2.106",
   },
   "resources": [
     {"id":{"name":"spr_obst_barrier_6","path":"sprites/spr_obst_barrier_6/spr_obst_barrier_6.yy",},},
@@ -255,6 +255,7 @@
     {"id":{"name":"ts_forestaccesories_1","path":"tilesets/ts_forestaccesories_1/ts_forestaccesories_1.yy",},},
     {"id":{"name":"Room11","path":"rooms/Room11/Room11.yy",},},
     {"id":{"name":"spr_gametitle","path":"sprites/spr_gametitle/spr_gametitle.yy",},},
+    {"id":{"name":"city_rm_intro","path":"rooms/city_rm_intro/city_rm_intro.yy",},},
     {"id":{"name":"oObst_stone5","path":"objects/oObst_stone5/oObst_stone5.yy",},},
     {"id":{"name":"spr_city_buildings","path":"sprites/spr_city_buildings/spr_city_buildings.yy",},},
     {"id":{"name":"spr_obst_barrierf_1","path":"sprites/spr_obst_barrierf_1/spr_obst_barrierf_1.yy",},},
@@ -468,6 +469,7 @@
     {"roomId":{"name":"Room11Forest","path":"rooms/Room11Forest/Room11Forest.yy",},},
     {"roomId":{"name":"forest_rm_intro","path":"rooms/forest_rm_intro/forest_rm_intro.yy",},},
     {"roomId":{"name":"GameOverRoom","path":"rooms/GameOverRoom/GameOverRoom.yy",},},
+    {"roomId":{"name":"city_rm_intro","path":"rooms/city_rm_intro/city_rm_intro.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
