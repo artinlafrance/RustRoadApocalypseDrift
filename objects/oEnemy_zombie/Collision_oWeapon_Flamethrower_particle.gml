@@ -5,6 +5,7 @@ if (oCar._has_instakill == true) {
 } else {
 	hp -= 1
 }
+audio_play_sound(zombiehit_sfx, 1, false)
 
 
 //For the red flash

@@ -1,1 +1,0 @@
-targetRoom = Room2Desert;

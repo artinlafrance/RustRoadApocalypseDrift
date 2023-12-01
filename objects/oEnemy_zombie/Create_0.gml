@@ -12,3 +12,5 @@ got_hit = false
 max_knockback_rpg = 150
 knockback_coefficient = 50
 knockback_time = 0
+
+alarm[0] = irandom_range(60, 300)

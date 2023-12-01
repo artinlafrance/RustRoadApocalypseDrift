@@ -13,14 +13,15 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9c4a4544-2ba0-4844-b8c9-d72c759104af",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8d860667-1b19-4ffc-bd5b-fe115cc31db9",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e6bd6dd6-fd2d-493f-8775-009d70b895ee",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 107,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"006b6527-a642-43e7-a27d-dba0679b017a","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"77c99ad6-85e1-4033-8993-5a414048ebf3","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 9,
@@ -43,7 +44,7 @@
     "events": {"resourceType":"KeyframeStore<MessageEventKeyframe>","resourceVersion":"1.0","Keyframes":[],},
     "eventStubScript": null,
     "eventToFunction": {},
-    "length": 1.0,
+    "length": 2.0,
     "lockOrigin": false,
     "moments": {"resourceType":"KeyframeStore<MomentsEventKeyframe>","resourceVersion":"1.0","Keyframes":[],},
     "playback": 1,
@@ -54,7 +55,8 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"9c4a4544-2ba0-4844-b8c9-d72c759104af","path":"sprites/spr_obst_stone148/spr_obst_stone148.yy",},},},"Disabled":false,"id":"ee4e56a2-6465-42e6-8def-f7e8ee096c9e","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"8d860667-1b19-4ffc-bd5b-fe115cc31db9","path":"sprites/spr_obst_stone148/spr_obst_stone148.yy",},},},"Disabled":false,"id":"64a573d7-c1d8-4eec-b790-89efd5d50e5a","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e6bd6dd6-fd2d-493f-8775-009d70b895ee","path":"sprites/spr_obst_stone148/spr_obst_stone148.yy",},},},"Disabled":false,"id":"bbeb65c9-fc12-4598-8ea1-2cf39126ca75","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

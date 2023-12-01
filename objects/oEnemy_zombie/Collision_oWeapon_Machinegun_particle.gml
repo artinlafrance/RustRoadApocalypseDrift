@@ -7,7 +7,7 @@ if (oCar._has_instakill == true) {
 } else {
 	hp -= 50
 }
-
+audio_play_sound(zombiehit_sfx, 1, false)
 
 //For the red flash
 flash = 10

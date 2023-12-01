@@ -15,9 +15,13 @@ if (keyboard_check(vk_space) && firingdelay == 0)
 			speed = 25;
 			direction = other.image_angle + random_range(-3,3);
 			image_angle = direction;
+			audio_play_sound(machinegun_sfx, 1, true)
 			}
 		firingdelay = 5;
+	} else if keyboard_check_released(vk_space) {
+		audio_stop_sound(machinegun_sfx)	
 	}
+		
 
 x = x -	lengthdir_x(recoil,image_angle);
 y = y -	lengthdir_x(recoil,image_angle);
