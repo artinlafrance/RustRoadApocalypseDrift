@@ -24,6 +24,7 @@
     {"name":"spr_car_up_5","order":5,"path":"sprites/spr_car_up_5/spr_car_up_5.yy",},
     {"name":"spr_obst_brokencar_2","order":7,"path":"sprites/spr_obst_brokencar_2/spr_obst_brokencar_2.yy",},
     {"name":"spr_forestaccesories_2","order":3,"path":"sprites/spr_forestaccesories_2/spr_forestaccesories_2.yy",},
+    {"name":"Room1Desert54","order":6,"path":"rooms/Room1Desert54/Room1Desert54.yy",},
     {"name":"spr_car_up_2","order":2,"path":"sprites/spr_car_up_2/spr_car_up_2.yy",},
     {"name":"Room1Desert","order":1,"path":"rooms/Room1Desert/Room1Desert.yy",},
     {"name":"spr_flamethrower_particles_8","order":8,"path":"sprites/spr_flamethrower_particles_8/spr_flamethrower_particles_8.yy",},

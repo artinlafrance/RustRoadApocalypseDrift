@@ -74,7 +74,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.1.102",
+    "IDEVersion": "2023.8.2.106",
   },
   "resources": [
     {"id":{"name":"spr_obst_barrier_6","path":"sprites/spr_obst_barrier_6/spr_obst_barrier_6.yy",},},
@@ -109,6 +109,7 @@
     {"id":{"name":"spr_obst_brokencar_2","path":"sprites/spr_obst_brokencar_2/spr_obst_brokencar_2.yy",},},
     {"id":{"name":"Sprite50","path":"sprites/Sprite50/Sprite50.yy",},},
     {"id":{"name":"spr_forestaccesories_2","path":"sprites/spr_forestaccesories_2/spr_forestaccesories_2.yy",},},
+    {"id":{"name":"Room1Desert54","path":"rooms/Room1Desert54/Room1Desert54.yy",},},
     {"id":{"name":"spr_car_up_2","path":"sprites/spr_car_up_2/spr_car_up_2.yy",},},
     {"id":{"name":"Room1Desert","path":"rooms/Room1Desert/Room1Desert.yy",},},
     {"id":{"name":"spr_flamethrower_particles_8","path":"sprites/spr_flamethrower_particles_8/spr_flamethrower_particles_8.yy",},},
@@ -470,6 +471,7 @@
     {"roomId":{"name":"Room29","path":"rooms/Room29/Room29.yy",},},
     {"roomId":{"name":"forest_rm_intro","path":"rooms/forest_rm_intro/forest_rm_intro.yy",},},
     {"roomId":{"name":"GameOverRoom","path":"rooms/GameOverRoom/GameOverRoom.yy",},},
+    {"roomId":{"name":"Room1Desert54","path":"rooms/Room1Desert54/Room1Desert54.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
