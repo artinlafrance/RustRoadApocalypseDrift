@@ -75,7 +75,6 @@
     {"name":"RoomBarrier2","order":26,"path":"rooms/RoomBarrier2/RoomBarrier2.yy",},
     {"name":"spr_healing_3","order":5,"path":"sprites/spr_healing_3/spr_healing_3.yy",},
     {"name":"spr_zombie_4","order":4,"path":"sprites/spr_zombie_4/spr_zombie_4.yy",},
-    {"name":"RoomDesertIntro","order":25,"path":"rooms/RoomDesertIntro/RoomDesertIntro.yy",},
     {"name":"levelWarp_2","order":3,"path":"sprites/levelWarp_2/levelWarp_2.yy",},
     {"name":"objCorrect","order":2,"path":"objects/objCorrect/objCorrect.yy",},
     {"name":"ts_forestaccesories_7","order":13,"path":"tilesets/ts_forestaccesories_7/ts_forestaccesories_7.yy",},
