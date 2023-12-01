@@ -1,1 +1,1 @@
-targetRoom = Room6Drift
+targetRoom = Room6Desert
