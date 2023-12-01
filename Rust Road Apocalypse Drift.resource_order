@@ -15,6 +15,7 @@
     {"name":"objGameEnd","order":5,"path":"objects/objGameEnd/objGameEnd.yy",},
     {"name":"Room10Forest","order":10,"path":"rooms/Room10Forest/Room10Forest.yy",},
     {"name":"levelWarp_5","order":6,"path":"sprites/levelWarp_5/levelWarp_5.yy",},
+    {"name":"spr_Mlogo","order":1,"path":"sprites/spr_Mlogo/spr_Mlogo.yy",},
     {"name":"spr_obst_brokencar_orange_2","order":9,"path":"sprites/spr_obst_brokencar_orange_2/spr_obst_brokencar_orange_2.yy",},
     {"name":"spr_obst_brokencar_purple_3","order":17,"path":"sprites/spr_obst_brokencar_purple_3/spr_obst_brokencar_purple_3.yy",},
     {"name":"RoomCity33","order":32,"path":"rooms/RoomCity33/RoomCity33.yy",},

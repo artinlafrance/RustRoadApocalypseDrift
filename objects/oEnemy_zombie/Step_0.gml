@@ -15,6 +15,8 @@ move_towards_point(oCar.x, oCar.y, spd)
 
 if place_meeting(x,y, oObst_barrier) {
 	spd = 0
+} else {
+	spd = 1	
 }
 
 // For the red flash shader

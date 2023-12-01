@@ -76,7 +76,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.2.106",
+    "IDEVersion": "2023.8.1.102",
   },
   "resources": [
     {"id":{"name":"spr_obst_barrier_6","path":"sprites/spr_obst_barrier_6/spr_obst_barrier_6.yy",},},
@@ -96,6 +96,7 @@
     {"id":{"name":"levelWarp_5","path":"sprites/levelWarp_5/levelWarp_5.yy",},},
     {"id":{"name":"spr_deserts","path":"sprites/spr_deserts/spr_deserts.yy",},},
     {"id":{"name":"oWeapon_swapper","path":"objects/oWeapon_swapper/oWeapon_swapper.yy",},},
+    {"id":{"name":"spr_Mlogo","path":"sprites/spr_Mlogo/spr_Mlogo.yy",},},
     {"id":{"name":"spr_obst_brokencar_orange_2","path":"sprites/spr_obst_brokencar_orange_2/spr_obst_brokencar_orange_2.yy",},},
     {"id":{"name":"spr_obst_brokencar_purple_3","path":"sprites/spr_obst_brokencar_purple_3/spr_obst_brokencar_purple_3.yy",},},
     {"id":{"name":"RoomCity33","path":"rooms/RoomCity33/RoomCity33.yy",},},
