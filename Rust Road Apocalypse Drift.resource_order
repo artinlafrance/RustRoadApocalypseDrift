@@ -9,6 +9,7 @@
   "ResourceOrderSettings": [
     {"name":"spr_obst_barrier_6","order":11,"path":"sprites/spr_obst_barrier_6/spr_obst_barrier_6.yy",},
     {"name":"Room9Desert","order":9,"path":"rooms/Room9Desert/Room9Desert.yy",},
+    {"name":"win_screen","order":1,"path":"sprites/win_screen/win_screen.yy",},
     {"name":"spr_flamethrower_particles_5","order":5,"path":"sprites/spr_flamethrower_particles_5/spr_flamethrower_particles_5.yy",},
     {"name":"ts_forestaccesories_5","order":9,"path":"tilesets/ts_forestaccesories_5/ts_forestaccesories_5.yy",},
     {"name":"spr_rpg_explosion_3","order":6,"path":"sprites/spr_rpg_explosion_3/spr_rpg_explosion_3.yy",},
@@ -175,6 +176,7 @@
     {"name":"spr_obst_brokencar_blue_4","order":21,"path":"sprites/spr_obst_brokencar_blue_4/spr_obst_brokencar_blue_4.yy",},
     {"name":"Room6Forest","order":6,"path":"rooms/Room6Forest/Room6Forest.yy",},
     {"name":"levelWarp_6","order":7,"path":"sprites/levelWarp_6/levelWarp_6.yy",},
+    {"name":"objGameWin","order":6,"path":"objects/objGameWin/objGameWin.yy",},
     {"name":"spr_obst_brokencar_purple_4","order":23,"path":"sprites/spr_obst_brokencar_purple_4/spr_obst_brokencar_purple_4.yy",},
     {"name":"RoomCity31","order":7,"path":"rooms/RoomCity31/RoomCity31.yy",},
     {"name":"spr_obst_brokencar_orange_1","order":4,"path":"sprites/spr_obst_brokencar_orange_1/spr_obst_brokencar_orange_1.yy",},
@@ -195,6 +197,7 @@
     {"name":"spr_forest_4","order":8,"path":"sprites/spr_forest_4/spr_forest_4.yy",},
     {"name":"objGameController","order":4,"path":"objects/objGameController/objGameController.yy",},
     {"name":"spr_powerbox_2","order":4,"path":"sprites/spr_powerbox_2/spr_powerbox_2.yy",},
+    {"name":"RoomWin","order":47,"path":"rooms/RoomWin/RoomWin.yy",},
     {"name":"spr_car_up_4","order":4,"path":"sprites/spr_car_up_4/spr_car_up_4.yy",},
     {"name":"spr_machinegun_particle_7","order":7,"path":"sprites/spr_machinegun_particle_7/spr_machinegun_particle_7.yy",},
     {"name":"levelWarp_7","order":8,"path":"sprites/levelWarp_7/levelWarp_7.yy",},

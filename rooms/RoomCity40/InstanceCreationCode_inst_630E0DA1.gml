@@ -1,1 +1,1 @@
-targetRoom = Room8Forest;
+targetRoom = RoomWin;
