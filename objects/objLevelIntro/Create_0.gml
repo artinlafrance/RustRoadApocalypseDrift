@@ -17,5 +17,13 @@ current_level = noone
 var target_room;
 objGameController.current_level = room
 
+if objGameController.current_level == forest_rm_intro {
+		audio_play_sound(forest_theme, 1, true)
+		audio_stop_sound(city_theme)
+} else if objGameController.current_level == city_rm_intro {
+	audio_stop_sound(forest_theme)
+	audio_play_sound(city_theme, 1, true)
+}
+
 
 instance_deactivate_all(true)

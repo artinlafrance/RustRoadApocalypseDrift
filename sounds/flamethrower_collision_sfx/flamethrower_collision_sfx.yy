@@ -19,5 +19,5 @@
   "sampleRate": 44100,
   "soundFile": "flamethrower_collision_sfx.wav",
   "type": 0,
-  "volume": 1.0,
+  "volume": 0.51,
 }

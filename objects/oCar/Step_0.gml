@@ -7,7 +7,7 @@ var _key_lshift = keyboard_check(vk_shift)
 xspd = (_key_right - _key_left) * current_speed;
 yspd = (_key_down - _key_up) * current_speed;
 
-
+show_debug_message(string(oCar.hp))
 if oCar.hp <= 0 && oCar._has_revive == true{
 	show_debug_message(string(oCar.hp))
 	use_revive_perk()

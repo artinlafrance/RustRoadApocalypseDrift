@@ -76,7 +76,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.1.102",
+    "IDEVersion": "2023.8.2.108",
   },
   "resources": [
     {"id":{"name":"spr_obst_barrier_6","path":"sprites/spr_obst_barrier_6/spr_obst_barrier_6.yy",},},
@@ -106,6 +106,7 @@
     {"id":{"name":"spr_obst_barrierf_4","path":"sprites/spr_obst_barrierf_4/spr_obst_barrierf_4.yy",},},
     {"id":{"name":"spr_rpg_particles_2","path":"sprites/spr_rpg_particles_2/spr_rpg_particles_2.yy",},},
     {"id":{"name":"spr_rpg_particles_6","path":"sprites/spr_rpg_particles_6/spr_rpg_particles_6.yy",},},
+    {"id":{"name":"city_theme","path":"sounds/city_theme/city_theme.yy",},},
     {"id":{"name":"spr_obst_brokencar_blue_5","path":"sprites/spr_obst_brokencar_blue_5/spr_obst_brokencar_blue_5.yy",},},
     {"id":{"name":"Sprite195","path":"sprites/Sprite195/Sprite195.yy",},},
     {"id":{"name":"oObst_brokencar_purple","path":"objects/oObst_brokencar_purple/oObst_brokencar_purple.yy",},},
@@ -200,6 +201,7 @@
     {"id":{"name":"spr_healing_1","path":"sprites/spr_healing_1/spr_healing_1.yy",},},
     {"id":{"name":"spr_obst_stone3","path":"sprites/spr_obst_stone3/spr_obst_stone3.yy",},},
     {"id":{"name":"spr_powerbox_3","path":"sprites/spr_powerbox_3/spr_powerbox_3.yy",},},
+    {"id":{"name":"forest_theme","path":"sounds/forest_theme/forest_theme.yy",},},
     {"id":{"name":"Room10Desert","path":"rooms/Room10Desert/Room10Desert.yy",},},
     {"id":{"name":"spr_flamethrower_particles_4","path":"sprites/spr_flamethrower_particles_4/spr_flamethrower_particles_4.yy",},},
     {"id":{"name":"ts_forest_7","path":"tilesets/ts_forest_7/ts_forest_7.yy",},},
