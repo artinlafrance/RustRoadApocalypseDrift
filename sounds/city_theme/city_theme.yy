@@ -10,14 +10,14 @@
   "bitRate": 128,
   "compression": 0,
   "conversionMode": 0,
-  "duration": 301.14545,
+  "duration": 301.176,
   "parent": {
     "name": "Levels",
     "path": "folders/Sounds/Levels.yy",
   },
   "preload": false,
   "sampleRate": 44100,
-  "soundFile": "city_theme.wav",
+  "soundFile": "city_theme.mp3",
   "type": 0,
   "volume": 0.4,
 }
