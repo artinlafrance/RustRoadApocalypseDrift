@@ -1,5 +1,8 @@
 /// @description Insert description here
-// Draws the text for the win screen
+// You can write your code in this editor
+
+
+
 
 draw_set_font(tutorialfont);
 draw_set_color(c_blue)
