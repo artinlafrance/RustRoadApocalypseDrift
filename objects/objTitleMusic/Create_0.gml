@@ -1,3 +1,3 @@
 /// @description Insert description here
-// You can write your code in this editor
+// Plays the title theme in the main menu
 audio_play_sound(title_theme, 0, true)

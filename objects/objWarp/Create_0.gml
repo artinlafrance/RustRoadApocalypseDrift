@@ -1,5 +1,5 @@
 /// @description Insert description here
-// You can write your code in this editor
+// This object warps the car to the next room
 
 
 var targetRoom, targetX, targetY

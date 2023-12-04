@@ -270,7 +270,6 @@
     {"id":{"name":"spr_healing_2","path":"sprites/spr_healing_2/spr_healing_2.yy",},},
     {"id":{"name":"levelWarp_1","path":"sprites/levelWarp_1/levelWarp_1.yy",},},
     {"id":{"name":"powerup_revive_sfx","path":"sounds/powerup_revive_sfx/powerup_revive_sfx.yy",},},
-    {"id":{"name":"objPauseGame","path":"objects/objPauseGame/objPauseGame.yy",},},
     {"id":{"name":"spr_obst_brokencar_blue_7","path":"sprites/spr_obst_brokencar_blue_7/spr_obst_brokencar_blue_7.yy",},},
     {"id":{"name":"Room5Forest","path":"rooms/Room5Forest/Room5Forest.yy",},},
     {"id":{"name":"spr_healthbar","path":"sprites/spr_healthbar/spr_healthbar.yy",},},

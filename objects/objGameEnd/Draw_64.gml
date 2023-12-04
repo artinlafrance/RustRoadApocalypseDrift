@@ -1,5 +1,6 @@
 /// @description Insert description here
-// You can write your code in this editor
+// Draws the text for the Game Over screen
+
 var text_x_Dead = (room_width / 2) - 100;
 var text_y_Dead = 100;
 var text_size = 32;

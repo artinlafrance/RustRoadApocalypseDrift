@@ -1,5 +1,7 @@
 /// @description Insert description here
-// You can write your code in this editor
+
+// This object is used in the tutorial to signal that the player cleared that tutorial romm 
+
 
 var target_room;
 audio_play_sound(correct_sfx, 1, false)

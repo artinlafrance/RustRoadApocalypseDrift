@@ -1,6 +1,5 @@
 /// @description Insert description here
-// You can write your code in this editor
-
+// This object handles the game over screen. Deletes the player object and draws the gui
 
 instance_destroy(oWeapon_swapper)
 instance_destroy(oCar)

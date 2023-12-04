@@ -1,6 +1,7 @@
 /// @description Insert description here
-// You can write your code in this editor
-// Check if objGameController.player is noone
+// Used at every start of a level. Spawns the car, plays the level music
+
+// Spawns the car
 if (instance_exists(oCar) && instance_exists(oWeapon_swapper)) {
 	instance_destroy(oCar)
 	instance_destroy(oWeapon_swapper)
@@ -17,6 +18,7 @@ current_level = noone
 var target_room;
 objGameController.current_level = room
 
+// Plays the theme music for each level
 if objGameController.current_level == forest_rm_intro {
 		audio_play_sound(forest_theme, 1, true)
 		audio_stop_sound(city_theme)

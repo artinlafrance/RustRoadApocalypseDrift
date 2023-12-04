@@ -1,5 +1,5 @@
 /// @description Insert description here
-// You can write your code in this editor
+// If the player dies go to gameover screen
 if instance_exists(oCar) {
 	if oCar.hp <= 0 && oCar._has_revive == false {
 		room_goto(GameOverRoom)

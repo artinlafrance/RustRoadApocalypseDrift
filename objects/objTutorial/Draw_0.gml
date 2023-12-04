@@ -1,5 +1,5 @@
 /// @description Insert description here
-// You can write your code in this editor
+// Puts the instruction for each tutorial and spawns the object checkmark
 
 text_x = room_width / 2 - 500
 text_y = 200

@@ -1,4 +1,4 @@
 /// @description Insert description here
-// You can write your code in this editor
+// Button to start the tutorial
 audio_stop_sound(title_theme)
 room_goto(RoomIntroTutorial)
